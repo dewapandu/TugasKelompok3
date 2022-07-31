@@ -57,7 +57,7 @@
 <body style="height:100vh;">
     <div class="d-flex h-100">
         <nav class="nav__wrapper bg-white" style="flex-basis:250px;">
-            <ul class="nav__list list-unstyled p-3" style="height:calc(100vh - 70px);"s>
+            <ul class="nav__list list-unstyled p-3" style="height:calc(100vh - 70px);">
                 <li class="nav__brand">
                     <h4>Login App</h4>
                 </li>
